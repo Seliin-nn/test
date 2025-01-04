@@ -10,7 +10,7 @@ public class Runner {
 // yeni kodlar
         // versiyon 7git
 
-        // github da değişiklik yaptım
+        // github da değişiklik yaptım  
 
     }
 }
