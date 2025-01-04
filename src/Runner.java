@@ -7,15 +7,6 @@ public class Runner {
         System.out.println( "değişiklik");
 
 
-// version 5
-        System.out.println( "değişiklik");
-
-
-
-
-
-
-
 
 
     }
