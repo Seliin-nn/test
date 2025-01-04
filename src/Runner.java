@@ -7,7 +7,8 @@ public class Runner {
         System.out.println( "değişiklik");
 
 
-
+// yeni kodlar
+        // versiyon 7git
 
     }
 }
